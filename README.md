@@ -1,6 +1,6 @@
 # Buscador de Frases de la serie breaking bad
 
-## Una versión básica hecha en React para buscar frases de manera aleatoria 
+## Una versión hecha en React para buscar frases de manera aleatoria 
 
 - Live -> https://cocky-mirzakhani-57132f.netlify.app/
 
